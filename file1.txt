@@ -1,3 +1,4 @@
-<<<<<<< HEAD
+Rama2 modifica Modificacion Pull requeest
 ejemplo linea1 adicion texto
 linea 2 desde rama3
+
